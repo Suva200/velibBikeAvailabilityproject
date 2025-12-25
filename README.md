@@ -40,7 +40,9 @@ velib-bike-availability-monitoring/
 │   ├── hdfs-site.xml
 │   ├── yarn-site.xml
 │   ├── spark-defaults.conf
-│   └── kafka-server.properties
+│   └── master-kafka-server.properties
+│   └── worker-kafka-server.properties
+|
 │
 ├── producer/
 │   └── produce_velib_data.py          # Kafka producer
