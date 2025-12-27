@@ -245,7 +245,7 @@ This can be used for testing without running the live producer.
 ## 🎥 Demo Video
 
 📹 **Demo Video Link:**
-👉 
+👉 https://youtu.be/6UGPSNxHtco
 
 ---
 
